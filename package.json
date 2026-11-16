@@ -7,10 +7,16 @@
     "test": "echo \"Error: Could not test no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "keywords": ["Executor", "HTTP_Requests", "Roblox", "byfron"],
+  "keywords": [
+    "Executor",
+    "HTTP_Requests",
+    "Roblox",
+    "byfron"
+  ],
   "author": "rxfe-a",
   "license": "ISC",
   "dependencies": {
+    "@netlify/blobs": "^8.2.0",
     "express": "^5.1.0"
   },
   "devDependencies": {
